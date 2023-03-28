@@ -11,10 +11,10 @@
 
 ## Experience
 
-### **Software Engineering** - (2 years)
--**Full:** Stack Website Development
--**JavaScript** , Python, HTML, CSS, mySQL, System Verilog, C, Node.js
--**Linux**
+### Software Engineering - (2 years)
+⋅⋅*Full Stack Website Development 
+⋅⋅*JavaScript , Python, HTML, CSS, mySQL, System Verilog, C, Node.js
+-Linux
 
 ### Electrical Engineering - (3 years)
 -**PCB Design (EAGLECAD, KiCAD)**
