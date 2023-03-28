@@ -7,12 +7,14 @@
 ## Education
 
 ### **University of California, San Diego** - *Bachelor of Science Electrical Engineering* - 2024
-### **Sweetwater High School** - *High School* - 2020
+### **Sweetwater High School** - 2020
 
 ## Experience
 
 ### Software Engineering - 3 years
+>PCB Design
+>Circuit Design
 ### Electrical Engineering - 3 years
 
-### Plans/Works in Progress
+## Plans/Works in Progress
 
