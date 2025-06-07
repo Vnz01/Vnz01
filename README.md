@@ -1,5 +1,3 @@
-## Education
-
 ## Experience
 
 ### Software Engineering - (2 years)
